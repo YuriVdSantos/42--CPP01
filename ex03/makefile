@@ -2,7 +2,7 @@ NAME = ex03
 
 CXX = c++
 CXXFLAGS = -Wall -Wextra -Werror -std=c++98
-SRC = HumanA.cpp HumanA.hpp HumanB.cpp HumanB.hpp main.cpp Wepon.ccp Wepon.hpp
+SRC = HumanA.cpp HumanB.cpp main.cpp Wepon.cpp
 
 RESET = \033[0m
 RED = \033[31m

@@ -30,7 +30,7 @@ void    Harl::warning(void)
 {
     std::cout << "* WARNING * " << std::endl
               << " think I deserve to have some extra bacon for free." 
-              << "I've been coming for    years whereas you started working"
+              << "I've been coming for years whereas you started working"
               <<" here since last month." << std::endl;
 
 }

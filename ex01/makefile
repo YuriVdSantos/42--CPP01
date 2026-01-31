@@ -2,7 +2,7 @@ NAME = ZombieHorde
 
 CXX = c++
 CXXFLAGS = -Wall -Wextra -Werror -std=c++98
-SRC = main.cpp Zombie.hpp Zombie.cpp zombieHorde.cpp
+SRC = main.cpp Zombie.cpp zombieHorde.cpp
 
 RESET = \033[0m
 RED = \033[31m
